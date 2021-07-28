@@ -1,0 +1,13 @@
+ .public-tasks{
+    width: 100%;
+    height: 400px;
+    margin: 10px;
+} 
+.navbar{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+a{
+    cursor: pointer;
+}
